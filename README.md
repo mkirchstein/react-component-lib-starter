@@ -1,2 +1,2 @@
-# react-component-lib-starter
-Starter React component library
+# nucleus-plus
+UI patterns build with Nucleus primitives plus additional dependencies
